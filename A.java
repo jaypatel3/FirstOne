@@ -4,10 +4,7 @@ public static void main(String args[]){
 	
 
 	
-	//Patel
-
-		//JAy
-
+	System.out.pritnln("Hello");
 }
 
 }
