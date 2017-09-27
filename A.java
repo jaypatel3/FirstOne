@@ -1,6 +1,7 @@
 class Jay{
 
-//Nirav
-//Jay
+public static void main(String args[]){
+	
+}
 
 }
