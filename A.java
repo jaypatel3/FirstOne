@@ -7,7 +7,7 @@ public static void main(String args[]){
 	
 
 
-	System.out.pritnln("123 Hello");
+	System.out.pritnln(" Hello");
 
 		
 
